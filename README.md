@@ -1,5 +1,10 @@
 # Advanced Network Security
 
+## Author
+
+lindsey-chang@qq.com
+My assignment of UOW CSCI968
+
 ## Overview
 A UDP programs to implement a remote login protocol.
 
