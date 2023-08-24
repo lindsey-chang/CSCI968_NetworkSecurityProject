@@ -155,7 +155,7 @@ Step 4: Client asks for input for username and password from user.
 input username:
 Bob 
 input password:
-z7734116
+t1234567
 Step 5: Client and Host perform the identification protocol
 
 Protocol Step 1: B sends A:Username
